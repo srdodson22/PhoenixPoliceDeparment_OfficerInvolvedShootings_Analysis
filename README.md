@@ -65,6 +65,6 @@ Misplaced Python notebook for suspect feature grouping due to using a free trial
 ---
 
 ## Project Link   
-Project: [PPD_OIS_Analysis](https://github.com/srdodson22)  
-Presentation: [PPD_OIS_Analysis_Presentation](fdffs)
+Project: [PPD_OIS_Analysis](PPD_OIS_Analysis)  
+Presentation: [PPD_OIS_Analysis_Presentation](https://drive.google.com/file/d/1K9AWC3-a7GtFIzlzC7ZgoJVJwZWUkyxQ/view?usp=sharing)
 
